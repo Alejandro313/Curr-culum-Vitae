@@ -61,13 +61,15 @@ h1,h2{
     font-size:75px;
 }
 
+h3{
+    font-family: 'Kaushan Script', cursive;
+    font-size:35px;
+}
+
 p{
     font-family:'Kaushan Script',cursive;
     font-size:21px;
 }
-
-
-
 
 .imgRedonda{
     width:300px;
